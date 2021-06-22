@@ -21,12 +21,12 @@ Visualization of results in the MSCOCO 2017 Val dataset , proposed H2V-142K data
 
 ## Acknowledgement
 
-[AZFT](https://azft.alibaba.com/lab/?id=1)
+The project is supported by Computer Vision and Video Analysis Lab of [AZFT](https://azft.alibaba.com/lab/?id=1)
 
 ## Citation
 
 ```
-@article{zhang2021h2v,
+@article{zhu2021h2v,
   title={Horizontal-to-Vertical Video Conversion},
   author=Tun Zhu, Daoxin Zhang, Yao Hu, Tianran Wang, Xiaolong Jiang, Jianke Zhu and Jiawei Li},
   journal={arXiv preprint arXiv:2101.04051},
