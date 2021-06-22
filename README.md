@@ -2,7 +2,7 @@
 
 //![](assets/pipeline.png)
 > [**Horizontal-to-Vertical Video Conversion**](https://arxiv.org/abs/2101.04051),            
-> Tun Zhu, Daoxin Zhang, Yao Hu, Tianran Wang, Xiaolong Jiang, jianke Zhu, Jiawei Li
+> Tun Zhu, Daoxin Zhang, Yao Hu, Tianran Wang, Xiaolong Jiang, Jianke Zhu, Jiawei Li,
 > *Transactions on Multimedia (2021)*
 
 ## Abstract
@@ -10,3 +10,7 @@ At this blooming age of social media and mobile platform, mass consumers are mig
 
 ## News
 * (2021.06) Accept by TMM
+
+
+## Dataset
+* H2V-142K can be downloaded from Alibaba Tianchi [official website](https://tianchi.aliyun.com/dataset/dataDetail?dataId=93339)
